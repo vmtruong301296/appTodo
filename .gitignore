@@ -1,0 +1,13 @@
+node_modules
+.expo
+dist
+build
+.DS_Store
+.env
+*.log
+.expo-shared
+android
+ios
+package-lock.json
+yarn.lock
+docs_web
